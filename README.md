@@ -1,7 +1,7 @@
 # CIFAR-10 CNN with PyTorch
 
 ## Accuracy / Epoch
-%86.02 accuracy with my own model
+86.02% accuracy with my own model
 
 110 epoch
 
